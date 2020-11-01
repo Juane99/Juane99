@@ -8,14 +8,10 @@ Now I am going to show the languages ​​and technologies that I use and in wh
 
 ---
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Juane99&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Juane99&theme=algolia&langs_count=10">
 </p>
 </details>
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
