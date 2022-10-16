@@ -9,8 +9,8 @@ Now I am going to show the languages and technologies that I use and in which I 
   </thead>
   <tbody>
     <tr>
-      <td>Programming Languages</td>
-      <td>
+      <td><b>Programming Languages</b></td>
+      <td align="center">
        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
        <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/> 
        <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
@@ -22,8 +22,8 @@ Now I am going to show the languages and technologies that I use and in which I 
       </td>
     </tr>
     <tr>
-      <td>ML/DL</td>
-      <td>
+      <td><b>ML/DL</b></td>
+      <td align="center">
        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
@@ -36,8 +36,8 @@ Now I am going to show the languages and technologies that I use and in which I 
       </td>
     </tr>
     <tr>
-      <td>Databases</td>
-      <td>
+      <td><b>Databases</b></td>
+      <td align="center">
        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
@@ -45,8 +45,8 @@ Now I am going to show the languages and technologies that I use and in which I 
       </td>
     </tr>
     <tr>
-      <td>IDEs</td>
-      <td>
+      <td><b>IDEs</b></td>
+      <td align="center">
        <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> 
        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
        <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/> 
@@ -57,8 +57,8 @@ Now I am going to show the languages and technologies that I use and in which I 
       </td>
     </tr>
     <tr>
-      <td>Other</td>
-      <td>
+      <td><b>Other</b></td>
+      <td align="center">
        <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
        <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> 
        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
