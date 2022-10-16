@@ -1,7 +1,7 @@
 <a href="https://twitter.com/JuaneMartinez99" target="_blank" rel="nofollow"><img align="right" alt="Juane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://linkedin.com/in/juanemiliomartinez" target="_blank" rel="nofollow"><img align="right" alt="Juane's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 # Hi 👋 I am Juane Martínez! 
-I am a Computer Science Engineer specialized in Computing and Intelligent Systems with an official Master's degree in Data Science from the University of Granada.
+I am a Computer Science Engineer specialized in Computing and Intelligent Systems with an official Master's degree in Data Science. Currently pursuing a PhD program in BioInformatics at the University of Granada
 
 ## Technologies I code with
 
