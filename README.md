@@ -2,7 +2,8 @@
 
 # Hi 👋 I am Juane Martínez! 
 I am a Computer Science Engineer specialized in Computing and Intelligent Systems with an official Master's degree in Data Science from the University of Granada.
-Now I am going to show the languages and technologies that I use and in which I am interested.
+
+## Technologies I code with
 
 <table>
   <thead align="center">
@@ -68,11 +69,10 @@ Now I am going to show the languages and technologies that I use and in which I 
 </table>
 
 ---
-<details open>
- <summary><b>Github Stats</b>: </summary>
-<br>
+
+## Github Stats
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Juane99&show_icons=true&theme=algolia&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Juane99&theme=algolia&langs_count=10">
 </p>
-</details>
